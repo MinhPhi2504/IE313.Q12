@@ -1,3 +1,5 @@
+<!-- Thử sửa cái gì he -->
+
 <?php
 // add_song.php
 header("Access-Control-Allow-Origin: *");
